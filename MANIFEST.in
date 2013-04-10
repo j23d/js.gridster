@@ -1,0 +1,3 @@
+recursive-include js/gridster/resources *.*
+recursive-include js/gridster *.txt
+include *.txt

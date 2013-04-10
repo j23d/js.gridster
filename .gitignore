@@ -1,0 +1,11 @@
+.cache/
+.installed.cfg
+*.egg-info/
+*.pyc
+local
+bin/
+develop-eggs/
+dist/
+eggs/
+include/
+lib/
