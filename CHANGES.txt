@@ -1,8 +1,10 @@
 CHANGELOG
 =========
 
-0.2(Unreleased)
----------------
+0.2.1(Unreleased)
+-----------------
+
+- Upadate to version 0.2.1 from 2013-10-28.
 
 
 0.1.0(2013-04-10)

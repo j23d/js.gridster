@@ -1,5 +1,5 @@
 js.gridster
-********
+***********
 
 Introduction
 ============
